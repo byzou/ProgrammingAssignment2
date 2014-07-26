@@ -1,4 +1,4 @@
- ## The following two functions are created to cache the inverse of a 
+## The following two functions are created to cache the inverse of a 
 ## special matrix.
 
 ## The following function creates a special matrix via four steps, set
